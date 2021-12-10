@@ -1,0 +1,17 @@
+{
+  "git_revision": "9d4d31dcb4402c310a882307aab41f778b37c07c",
+  "artifacts": {
+    "installer": {
+      "filename": "ncJump-2026.08.r1-9d4d31d-Win64-VS2022.exe",
+      "size": 2901275,
+      "timestamp": "2026-08-24T03:12:36Z",
+      "sha256": "bebfb1b05f4878877fc53386bd689ab2d60006b0755798ef5221c8b718fa5c9c"
+    },
+    "portable": {
+      "filename": "ncJump-2026.08.r1-9d4d31d-Win64-VS2022.zip",
+      "size": 3499899,
+      "timestamp": "2026-08-24T03:12:36Z",
+      "sha256": "b10526de4361c8996a6c9456a504cca00bf227ed4d65205d5235be5006057512"
+    }
+  }
+}
